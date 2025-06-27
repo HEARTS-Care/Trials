@@ -28,7 +28,7 @@ samples, guidance on mobile development, and a full API reference.
 ![login](Screenshot 2025-06-27 150120.png)
 
 ### 🔹 Recipe Detail Page
-![Recipe Detail](assets/recipe_detail.png)
+![Recipe Detail](Screenshot 2025-06-27 152802.png)
 
 ### 🔹 Favorites Page
 ![Favorites](Screenshot 2025-06-27 150029.png)
