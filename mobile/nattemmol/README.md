@@ -20,28 +20,28 @@ samples, guidance on mobile development, and a full API reference.
 ## 🖼️ Screenshots
 
 ### 🔹 Home Screen
-![Home Screen](Screenshot 2025-06-27 145906.png)
-![Home Screen](Screenshot 2025-06-27 145935.png)
+![Home Screen](home.png)
+![Home Screen](home2.png)
 
 ### 🔹 Authentication Pages
-![register](Screenshot 2025-06-27 150140.png)
-![login](Screenshot 2025-06-27 150120.png)
+![register](register.png)
+![login](login.png)
 
 ### 🔹 Recipe Detail Page
-![Recipe Detail](Screenshot 2025-06-27 152802.png)
+![Recipe Detail](productDetail.png)
 
 ### 🔹 Favorites Page
-![Favorites](Screenshot 2025-06-27 150029.png)
+![Favorites](favorites.png)
 
 ### 🔹 Saved Page
-![Saved](Screenshot 2025-06-27 150041.png)
+![Saved](saved.png)
 
 ### 🔹 Builder Page
-![Builder](Screenshot 2025-06-27 150443.png)
-![Builder](Screenshot 2025-06-27 150518.png)
+![Builder](builder.png)
+![Builder](builder2.png)
 
 ### 🔹 Profile Page
-![Profile](Screenshot 2025-06-27 150100.png)
+![Profile](profile.png)
 ---
 
 ## 📦 Features
