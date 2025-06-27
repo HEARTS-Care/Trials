@@ -37,8 +37,8 @@ samples, guidance on mobile development, and a full API reference.
 ![Saved](saved.png)
 
 ### 🔹 Builder Page
-![Builder](builder.png)
-![Builder](builder2.png)
+![Builder](slider.png)
+![Builder](slider2.png)
 
 ### 🔹 Profile Page
 ![Profile](profile.png)
